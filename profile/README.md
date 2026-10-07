@@ -4,7 +4,7 @@
 
 **Open research on understanding long video: methods, evaluation, and what they really cost.**
 
-[Project page](https://sixundong.com/projects/longvideo-eval) · [Get involved](https://github.com/LongVideo-Intelligence/LongVideo-Eval#-get-involved)
+[Projects](#projects) · [Get involved](#get-involved) · [Contact](mailto:sixundong.ai@gmail.com)
 
 </div>
 
