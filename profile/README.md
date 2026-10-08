@@ -14,8 +14,7 @@
 <tr>
 <td width="200" align="center">
 <a href="https://github.com/LongVideo-Intelligence/LongVideo-Eval">
-<img src="https://raw.githubusercontent.com/LongVideo-Intelligence/LongVideo-Eval/main/docs/assets/longvideo_eval_logo.png#gh-light-mode-only" alt="LongVideo-Eval" width="170">
-<img src="https://raw.githubusercontent.com/LongVideo-Intelligence/LongVideo-Eval/main/docs/assets/longvideo_eval_logo_dark.png#gh-dark-mode-only" alt="LongVideo-Eval" width="170">
+<img src="https://raw.githubusercontent.com/LongVideo-Intelligence/.github/main/profile/longvideo_eval_logo_card.png" alt="LongVideo-Eval" width="170">
 </a>
 </td>
 <td>
